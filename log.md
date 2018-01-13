@@ -13,7 +13,7 @@
 
 **Today's Progress**: Learnt to create inputs (text, radio, checkboxes) and buttons.
 
-**Thoughts:** It's very hard to code with a hangover
+**Thoughts:** It's very hard to code being hung over.
 
 **Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
 
