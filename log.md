@@ -20,6 +20,15 @@
 
 ### Day 3: January 14, 2018
 
+**Today's Progress**: Reviewed padding, margin and border in CSS and styling hierarchy.
+
+**Thoughts:** My decision to start the #100DaysOfCode on a weekend is highly questionable.
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 4: January 15, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
