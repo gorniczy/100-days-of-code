@@ -29,6 +29,15 @@
 
 ### Day 4: January 15, 2018
 
+**Today's Progress**: Finished HTML&CSS challenges on fCC. Started practicing responsive design. Struggled a bit with git commit history changes.
+
+**Thoughts:** I really enjoy doing this things. Hope for the best!
+
+**Link(s) to work:** [Responsive Design](https://github.com/gorniczy/my100daysOfCode/blob/master/Responsive%20Design.html)
+
+
+### Day 5: January 16, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
