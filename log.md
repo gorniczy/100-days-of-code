@@ -38,6 +38,15 @@
 
 ### Day 5: January 16, 2018
 
+**Today's Progress**: Made some progress with bootstrap styling.
+
+**Thoughts:** Feeling focused and motivated.
+
+**Link(s) to work:** [Responsive Design](https://github.com/gorniczy/my100daysOfCode/blob/master/Responsive%20Design.html)
+
+
+### Day 6: January 16, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
