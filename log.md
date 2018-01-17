@@ -47,6 +47,15 @@
 
 ### Day 6: January 16, 2018
 
+**Today's Progress**: Finished Responsive Design and started jQuery on fCC. Excited about building my own projects.
+
+**Thoughts:** Feel more like a construction engineer today.
+
+**Link(s) to work:** [Responsive Design](https://github.com/gorniczy/my100daysOfCode/blob/master/Responsive%20Design.html)
+
+
+### Day 7: January 17, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
