@@ -56,6 +56,15 @@
 
 ### Day 7: January 17, 2018
 
+**Today's Progress**: Made some progress with jQuery and enjoyed it.
+
+**Thoughts:** 8yo me with his tough love to algebra would call me a traitor.
+
+**Link(s) to work:** [jQuery](https://github.com/gorniczy/my100daysOfCode/blob/master/jQuery.html)
+
+
+### Day 8: January 18, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
