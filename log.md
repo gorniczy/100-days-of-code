@@ -45,7 +45,7 @@
 **Link(s) to work:** [Responsive Design](https://github.com/gorniczy/my100daysOfCode/blob/master/Responsive%20Design.html)
 
 
-### Day 6: January 16, 2018
+### Day 6: January 17, 2018
 
 **Today's Progress**: Finished Responsive Design and started jQuery on fCC. Excited about building my own projects.
 
@@ -54,7 +54,7 @@
 **Link(s) to work:** [Responsive Design](https://github.com/gorniczy/my100daysOfCode/blob/master/Responsive%20Design.html)
 
 
-### Day 7: January 17, 2018
+### Day 7: January 18, 2018
 
 **Today's Progress**: Made some progress with jQuery and enjoyed it.
 
@@ -63,7 +63,16 @@
 **Link(s) to work:** [jQuery](https://github.com/gorniczy/my100daysOfCode/blob/master/jQuery.html)
 
 
-### Day 8: January 18, 2018
+### Day 8: January 19, 2018
+
+**Today's Progress**: Finished jQuery on fCC.
+
+**Thoughts:** Discovered some imgs of narratives written with js syntax and found it genius! Feel excited about building my own projects.
+
+**Link(s) to work:** [jQuery](https://github.com/gorniczy/my100daysOfCode/blob/master/jQuery.html)
+
+
+### Day 9: January 20, 2018
 
 **Today's Progress**:
 
