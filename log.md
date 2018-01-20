@@ -74,6 +74,15 @@
 
 ### Day 9: January 20, 2018
 
+**Today's Progress**: Started to build my tribute page.
+
+**Thoughts:** Feel moderately excited.
+
+**Link(s) to work:** [Tribute page](https://github.com/gorniczy/tribute-page)
+
+
+### Day 10: January 21, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
