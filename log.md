@@ -83,6 +83,15 @@
 
 ### Day 10: January 21, 2018
 
+**Today's Progress**: Played around with bootstrap columns in my tribute project.
+
+**Thoughts:** Wittgenstein looks both dead and alive on the img I've chosen.
+
+**Link(s) to work:** [Tribute page](https://github.com/gorniczy/tribute-page)
+
+
+### Day 11: January 22, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
