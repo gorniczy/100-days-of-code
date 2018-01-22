@@ -92,6 +92,15 @@
 
 ### Day 11: January 22, 2018
 
+**Today's Progress**: Practiced some jQuery functions and feel like a magician.
+
+**Thoughts:** It's show time I guess. :)
+
+**Link(s) to work:** [Tribute page](https://github.com/gorniczy/tribute-page)
+
+
+### Day 12: January 22, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
