@@ -99,7 +99,16 @@
 **Link(s) to work:** [Tribute page](https://github.com/gorniczy/tribute-page)
 
 
-### Day 12: January 22, 2018
+### Day 12: January 23, 2018
+
+**Today's Progress**: Designed and coded a web page as a birthday present for my GF.
+
+**Thoughts:** The process of creating it made me happy.
+
+**Link(s) to work:** [Ślinkieta](https://gorniczy.github.io/slinkieta/)
+
+
+### Day 13: January 24, 2018
 
 **Today's Progress**:
 
