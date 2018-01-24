@@ -4,7 +4,7 @@
 
 **Today's Progress**: made some progress on the HTML5 and CSS challenges on fCC.
 
-**Thoughts:** I am revisiting some already known things to me, but from a different perspective, and I'm willing to build my project along with excersise so it should be fine :). Can't wait to be able to apload the Neo I know JS on twitter.
+**Thoughts:** I am revisiting some already known things to me, but from a different perspective, and I'm willing to build my project along with exercise so it should be fine :). Can't wait to be able to upload the Neo I know JS on twitter.
 
 **Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
 
@@ -109,6 +109,15 @@
 
 
 ### Day 13: January 24, 2018
+
+**Today's Progress**: Completed my tribute page challenge.
+
+**Thoughts:** Starting to realize why coders are often perceived to be hermits. :)
+
+**Link(s) to work:** [Tribute page](https://codepen.io/gorniczy/full/qpLJRQ/)
+
+
+### Day 14: January 25, 2018
 
 **Today's Progress**:
 
