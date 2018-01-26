@@ -119,6 +119,24 @@
 
 ### Day 14: January 25, 2018
 
+**Today's Progress**: Started to work on my portfolio page.
+
+**Thoughts:** Wondering why 'Hello world' wouldn't suffice.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 14: January 26, 2018
+
+**Today's Progress**: Worked on the home section of my portfolio page.
+
+**Thoughts:** Is debugging what coders do on the 9th circle of hell? :)
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 15: January 27, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
