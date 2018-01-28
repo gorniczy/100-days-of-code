@@ -137,7 +137,7 @@
 
 ### Day 15: January 27, 2018
 
-**Today's Progress**: Customized background-image of my portfolio page and added a nav bar.
+**Today's Progress**: Customized the background-image of my portfolio page and added a nav bar.
 
 **Thoughts:** Feel like building a lego castle without lego blocks supplied.
 
@@ -145,6 +145,15 @@
 
 
 ### Day 16: January 27, 2018
+
+**Today's Progress**: Played with navbar in my portfolio page.
+
+**Thoughts:** It looked more like: "was played by navbar...".
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 16: January 28, 2018
 
 **Today's Progress**:
 
