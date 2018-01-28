@@ -153,7 +153,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 16: January 28, 2018
+### Day 17: January 28, 2018
 
 **Today's Progress**:
 
