@@ -144,7 +144,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 16: January 27, 2018
+### Day 16: January 28, 2018
 
 **Today's Progress**: Played with navbar in my portfolio page.
 
@@ -153,7 +153,16 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 17: January 28, 2018
+### Day 17: January 29, 2018
+
+**Today's Progress**: Added responsive gallery and a "hire me" button to my portfolio page.
+
+**Thoughts:** It's a shame I'm the only one clicking the button so far.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 18: January 30, 2018
 
 **Today's Progress**:
 
