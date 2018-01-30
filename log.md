@@ -164,6 +164,14 @@
 
 ### Day 18: January 30, 2018
 
+**Today's Progress**: Worked on a web design section of my web design project.
+
+**Thoughts:** Someone's asked me today if I am a programmer. Am I?
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+### Day 19: January 31, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
