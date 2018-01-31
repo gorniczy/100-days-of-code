@@ -170,7 +170,17 @@
 
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
+
 ### Day 19: January 31, 2018
+
+**Today's Progress**: Finished overall structure of my portfolio page.
+
+**Thoughts:** Feels kind of wierd to have a portfolio with 3 web projects, portfolio included.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 20: February 1, 2018
 
 **Today's Progress**:
 
