@@ -182,6 +182,15 @@
 
 ### Day 20: February 1, 2018
 
+**Today's Progress**: Added a logo button and played with jQuery to make social media icons appear on hover.
+
+**Thoughts:** The page looks like a theme park with my face instead of a roller coaster.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 21: February 2, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
