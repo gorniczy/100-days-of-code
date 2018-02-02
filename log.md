@@ -191,6 +191,15 @@
 
 ### Day 21: February 2, 2018
 
+**Today's Progress**: Struggled with jQuery on my logo and icons.
+
+**Thoughts:** Judging by the results, should call myself Professor Chaos today.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 22: February 3, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
