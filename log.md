@@ -200,6 +200,15 @@
 
 ### Day 22: February 3, 2018
 
+**Today's Progress**: Made the navbar responsive an a banch of minor changes.
+
+**Thoughts:** Discovered that my body is quite responsive to me not feeding it.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 23: February 4, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
