@@ -126,7 +126,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 14: January 26, 2018
+### Day 15: January 26, 2018
 
 **Today's Progress**: Worked on the home section of my portfolio page.
 
@@ -135,7 +135,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 15: January 27, 2018
+### Day 16: January 27, 2018
 
 **Today's Progress**: Customized the background-image of my portfolio page and added a nav bar.
 
@@ -144,7 +144,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 16: January 28, 2018
+### Day 17: January 28, 2018
 
 **Today's Progress**: Played with navbar in my portfolio page.
 
@@ -153,7 +153,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 17: January 29, 2018
+### Day 18: January 29, 2018
 
 **Today's Progress**: Added responsive gallery and a "hire me" button to my portfolio page.
 
@@ -162,7 +162,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 18: January 30, 2018
+### Day 19: January 30, 2018
 
 **Today's Progress**: Worked on a web design section of my web design project.
 
@@ -171,7 +171,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 19: January 31, 2018
+### Day 20: January 31, 2018
 
 **Today's Progress**: Finished overall structure of my portfolio page.
 
@@ -180,7 +180,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 20: February 1, 2018
+### Day 21: February 1, 2018
 
 **Today's Progress**: Added a logo button and played with jQuery to make social media icons appear on hover.
 
@@ -189,7 +189,7 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 21: February 2, 2018
+### Day 22: February 2, 2018
 
 **Today's Progress**: Struggled with jQuery on my logo and icons.
 
@@ -198,16 +198,25 @@
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 22: February 3, 2018
+### Day 23: February 3, 2018
 
-**Today's Progress**: Made the navbar responsive an a banch of minor changes.
+**Today's Progress**: Made the navbar responsive and a banch of minor changes.
 
-**Thoughts:** Discovered that my body is quite responsive to me not feeding it.
+**Thoughts:**  Discovered that my body is quite responsive to me not feeding it.
 
 **Link(s) to work:** [Portfolio](https://gorniczy.github.io)
 
 
-### Day 23: February 4, 2018
+### Day 24: February 4, 2018
+
+**Today's Progress**: Worked on the overall responsiveness of my portfolio.
+
+**Thoughts:** My first design-related job interview due tomorrow. Gonna tell them all about my 'hire me' button.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 25: February 5, 2018
 
 **Today's Progress**:
 
