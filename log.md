@@ -218,6 +218,33 @@
 
 ### Day 25: February 5, 2018
 
+**Today's Progress**: My portfolio is finished. Minor changes due tomorrow.
+
+**Thoughts:** My git commitment has grown exponentially.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 26: February 6, 2018
+
+**Today's Progress**: Made minor changes and consider my portfolio challenge completed.
+
+**Thoughts:** Assume that my dreams today will be styled with CSS and set in motion with jQuery.
+
+**Link(s) to work:** [Portfolio](https://gorniczy.github.io)
+
+
+### Day 27: February 7, 2018
+
+**Today's Progress**: Started my adventure with the pure JS. Improved responsiveness on my 'presented' project.
+
+**Thoughts:** Feel like engaging my two alter egos — Mr Chaos and Ms Order — in the game of chess. Some flirting involved.
+
+**Link(s) to work:** [Presented](https://gorniczy.github.io/presented)
+
+
+### Day 28: February 8, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
