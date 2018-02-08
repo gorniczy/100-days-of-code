@@ -245,6 +245,15 @@
 
 ### Day 28: February 8, 2018
 
+**Today's Progress**: My adventure with JS continues. Made minor changes to my projects.
+
+**Thoughts:** Thinking of combining UX/UI Design with Frontend. Is it a kamikaze approach?
+
+**Link(s) to work:** [Presented](https://gorniczy.github.io/presented)
+
+
+### Day 29: February 9, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
