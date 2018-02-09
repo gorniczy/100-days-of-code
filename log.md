@@ -254,6 +254,15 @@
 
 ### Day 29: February 9, 2018
 
+**Today's Progress**: Expanded my JS toolkit.
+
+**Thoughts:** Cannot wait to be able to implement it on real life projects.
+
+**Link(s) to work:** [JS FCC](https://www.freecodecamp.org/challenges/manipulate-arrays-with-push)
+
+
+### Day 30: February 9, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
