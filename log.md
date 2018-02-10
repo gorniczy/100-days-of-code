@@ -256,12 +256,21 @@
 
 **Today's Progress**: Expanded my JS toolkit.
 
-**Thoughts:** Cannot wait to be able to implement it on real life projects.
+**Thoughts:** Cannot wait to be able to implement it to real life projects.
 
 **Link(s) to work:** [JS FCC](https://www.freecodecamp.org/challenges/manipulate-arrays-with-push)
 
 
-### Day 30: February 9, 2018
+### Day 30: February 10, 2018
+
+**Today's Progress**: The housewarming party I'm throwing for Java Script inside my head is still quite modest.
+
+**Thoughts:** I managed to introduced it to its neighbours: HTML and CSS, but they still prefer to see it in the jQuery outfit. Hoping some booze will make it .click().
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 31: February 11, 2018
 
 **Today's Progress**:
 
