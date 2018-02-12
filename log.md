@@ -258,7 +258,7 @@
 
 **Thoughts:** Cannot wait to be able to implement it to real life projects.
 
-**Link(s) to work:** [JS FCC](https://www.freecodecamp.org/challenges/manipulate-arrays-with-push)
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
 
 
 ### Day 30: February 10, 2018
@@ -271,6 +271,24 @@
 
 
 ### Day 31: February 11, 2018
+
+**Today's Progress**: Played with conditioning in JS.
+
+**Thoughts:** The "if" statement seems to give the playground a whole new dimension.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 32: February 12, 2018
+
+**Today's Progress**: Written some functions with if/else if and switch statements in JS.
+
+**Thoughts:** Have this idea about my future random quote machine challenge. Can't wait.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 33: February 13, 2018
 
 **Today's Progress**:
 
