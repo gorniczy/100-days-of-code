@@ -290,6 +290,24 @@
 
 ### Day 33: February 13, 2018
 
+**Today's Progress**: JS.
+
+**Thoughts:** Still new, a bit challenging at times, but lovable.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 34: February 14, 2018
+
+**Today's Progress**: Got beaten today by one of JS challenges.
+
+**Thoughts:** No, I'm not gonna reveal here which one was it. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 35: February 15, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
