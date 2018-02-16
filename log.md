@@ -308,6 +308,24 @@
 
 ### Day 35: February 15, 2018
 
+**Today's Progress**: Discovered JS objects.
+
+**Thoughts:** Gonna try intoducing myself to JS using that feature tommorow.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 36: February 16, 2018
+
+**Today's Progress**: Still JS.
+
+**Thoughts:** I'm bored of my latest twits too. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 37: February 17, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
