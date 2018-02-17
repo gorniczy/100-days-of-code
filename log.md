@@ -319,12 +319,21 @@
 
 **Today's Progress**: Still JS.
 
-**Thoughts:** I'm bored of my latest twits too. :)
+**Thoughts:** I'm bored of my latest logs too. :)
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
 
 
 ### Day 37: February 17, 2018
+
+**Today's Progress**: Spent a few hours with loops today.
+
+**Thoughts:** Definitely need some Saturday night rewiring. 
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 38: February 17, 2018
 
 **Today's Progress**:
 
