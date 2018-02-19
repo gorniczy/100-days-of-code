@@ -328,15 +328,33 @@
 
 **Today's Progress**: Spent a few hours with loops today.
 
-**Thoughts:** Definitely need some Saturday night rewiring. 
+**Thoughts:** Definitely need some Saturday night rewiring.
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
 
 
-### Day 38: February 17, 2018
+### Day 38: February 18, 2018
+
+**Today's Progress**: Object-oriented and functional programming today.
+
+**Thoughts:** Realized how flexible JS may be in terms of alternative solutions. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 39: February 19, 2018
+
+**Today's Progress**: This was the least productive of my coding days.
+
+**Thoughts:** Bring it on, Fabruary 20. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 40: February 19, 2018
 
 **Today's Progress**:
 
-**Thoughts:**
+**Thoughts:** 
 
-**Link(s) to work:**
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
