@@ -346,15 +346,33 @@
 
 **Today's Progress**: This was the least productive of my coding days.
 
-**Thoughts:** Bring it on, Fabruary 20. :)
+**Thoughts:** Bring it on, February 20. :)
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
 
 
-### Day 40: February 19, 2018
+### Day 40: February 21, 2018
+
+**Today's Progress**: Started algorithms today.
+
+**Thoughts:** Missed my first coding day yesterday. Let's just say that ma granny's b-day was reason good enough.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 41: February 22, 2018
+
+**Today's Progress**: Working on algorithms.
+
+**Thoughts:** Getting excited.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 42: February 23, 2018
 
 **Today's Progress**:
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
