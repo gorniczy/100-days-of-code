@@ -371,6 +371,15 @@
 
 ### Day 42: February 23, 2018
 
+**Today's Progress**: Written an algorithm to checkup palindromes.
+
+**Thoughts:** Excited at first, but then saw an advanced solution...
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 43: February 24, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
