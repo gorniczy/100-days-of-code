@@ -380,6 +380,15 @@
 
 ### Day 43: February 24, 2018
 
+**Today's Progress**: Figured out the longest word in a string algorithm.
+
+**Thoughts:** Making too many variables I guess, but trying to give them cute names to make them feel special.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 44: February 25, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
