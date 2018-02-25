@@ -389,6 +389,15 @@
 
 ### Day 44: February 25, 2018
 
+**Today's Progress**: Spent an hour figuring out the "title case a sentence" algorithm.
+
+**Thoughts:** Not this time. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 45: February 26, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
