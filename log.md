@@ -408,8 +408,8 @@
 
 ### Day 46: February 27, 2018
 
-**Today's Progress**:
+**Today's Progress**: Still no solution for one of the algorithms.
 
-**Thoughts:**
+**Thoughts:** You will get stuck they've told me, be patient, they've told me. Ok.
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
