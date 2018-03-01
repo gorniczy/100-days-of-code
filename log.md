@@ -405,11 +405,28 @@
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
 
 
-
 ### Day 46: February 27, 2018
 
 **Today's Progress**: Still no solution for one of the algorithms.
 
 **Thoughts:** You will get stuck they've told me, be patient, they've told me. Ok.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 47: February 28, 2018
+
+**Today's Progress**: Solved it.
+
+**Thoughts:** Psst: it was "Title case a sentence" algorithm. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 48: March 1, 2018
+
+**Today's Progress**: Written a few more algorithms.
+
+**Thoughts:** Me minus just one year would be suprised hearing it from myself.
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
