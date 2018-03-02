@@ -430,3 +430,12 @@
 **Thoughts:** Me minus just one year would be suprised hearing it from myself.
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 49: March 2, 2018
+
+**Today's Progress**: Made an attempt at chunky monkey.
+
+**Thoughts:** I guess mine is a bit feral.
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
