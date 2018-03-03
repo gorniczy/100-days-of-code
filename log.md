@@ -436,6 +436,15 @@
 
 **Today's Progress**: Made an attempt at chunky monkey.
 
-**Thoughts:** I guess mine is a bit feral.
+**Thoughts:** I guess mine is a bit feral. Hush. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 50: March 3, 2018
+
+**Today's Progress**: Managed to tame the monkey.
+
+**Thoughts:** I don't know why my code works. :)
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
