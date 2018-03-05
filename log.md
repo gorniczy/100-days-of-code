@@ -448,3 +448,30 @@
 **Thoughts:** I don't know why my code works. :)
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 51: March 4, 2018
+
+**Today's Progress**: Written code for slasher flick (5 mins) and mutations (2 long hours).
+
+**Thoughts:** Is my IQ unstable or something? :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 52: March 5, 2018
+
+**Today's Progress**: Written "seek and destroy" algorithm today. Sort of.
+
+**Thoughts:** A whole lot of seeking and and just a tiny bit of destruction. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 53: March 6, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
