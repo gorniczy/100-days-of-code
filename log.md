@@ -470,8 +470,17 @@
 
 ### Day 53: March 6, 2018
 
-**Today's Progress**:
+**Today's Progress**: Tried to write a better code for seek & destroy.
 
-**Thoughts:**
+**Thoughts:** Wanted to turn it into seek & annihilate or sth. Well, a simple destruction should do for now. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 54: March 7, 2018
+
+**Today's Progress**: Tried to write a better code for seek & destroy.
+
+**Thoughts:** Wanted to turn it into seek & annihilate or sth. Well, a simple destruction should do for now. :)
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
