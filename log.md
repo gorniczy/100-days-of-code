@@ -479,8 +479,17 @@
 
 ### Day 54: March 7, 2018
 
-**Today's Progress**: Tried to write a better code for seek & destroy.
+**Today's Progress**: Written 'where do I belong' algorithm.
 
-**Thoughts:** Wanted to turn it into seek & annihilate or sth. Well, a simple destruction should do for now. :)
+**Thoughts:** Turned out to be much easier for numbers than for my life. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 55: March 8, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
