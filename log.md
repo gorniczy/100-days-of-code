@@ -490,12 +490,20 @@
 
 **Today's Progress**: Basic algorithm scripting checked.
 
-**Thoughts:** Beyond excited to move on to my new projects. 
+**Thoughts:** Beyond excited to move on to my new projects.
 
 **Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
 
 
-### Day 56: March 8, 2018
+### Day 57: March 9, 2018
+
+**Today's Progress**: Checked APIs, JSON and AJAX.
+
+**Thoughts:** So, whom should I quote? :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+### Day 58: March 10, 2018
 
 **Today's Progress**:
 
