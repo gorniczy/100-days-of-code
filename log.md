@@ -506,6 +506,24 @@
 
 ### Day 57: March 10, 2018
 
+**Today's Progress**: Set foundations for my random quote machine.
+
+**Thoughts:** Gonna quote the hell out of them. :)
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 58: March 11, 2018
+
+**Today's Progress**: JSON is great, JS objects are awesome, html is my first crush.
+
+**Thoughts:** OK, so how to I combine them?
+
+**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+
+
+### Day 59: March 12, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
