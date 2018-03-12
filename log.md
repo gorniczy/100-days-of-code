@@ -510,22 +510,31 @@
 
 **Thoughts:** Gonna quote the hell out of them. :)
 
-**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 58: March 11, 2018
 
 **Today's Progress**: JSON is great, JS objects are awesome, html is my first crush.
 
-**Thoughts:** OK, so how to I combine them?
+**Thoughts:** OK, so how do I combine them?
 
-**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 59: March 12, 2018
+
+**Today's Progress**: Created a JSON file with objects—soon—to—be—quotes.
+
+**Thoughts:** My html doesn't see it yet but who knows, maybe it's the matter of focus.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 60: March 13, 2018
 
 **Today's Progress**:
 
 **Thoughts:**
 
-**Link(s) to work:** [JavaScript Playground](https://github.com/gorniczy/my100daysOfCode/blob/master/JavaScript)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
