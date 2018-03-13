@@ -533,6 +533,15 @@
 
 ### Day 60: March 13, 2018
 
+**Today's Progress**: Written a basic code to randomize the quotes in my stock.
+
+**Thoughts:** Oh gosh, I'm a developer.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 61: March 14, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
