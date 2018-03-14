@@ -542,8 +542,8 @@
 
 ### Day 61: March 14, 2018
 
-**Today's Progress**:
+**Today's Progress**: Added quotes.
 
-**Thoughts:**
+**Thoughts:** Requested General Disarray's assistance.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
