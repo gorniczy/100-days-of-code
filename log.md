@@ -560,8 +560,17 @@
 
 ### Day 63: March 14, 2018
 
-**Today's Progress**: Added mix function to my quote machine.
+**Today's Progress**: Added a mix function to my quote machine.
 
 **Thoughts:** Never have I clicked any button with such commitment.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 64: March 14, 2018
+
+**Today's Progress**: Added a dialogue function to my quote machine.
+
+**Thoughts:** My girlfriend asked me to not overthink it but at this point it's close to impossible.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
