@@ -549,7 +549,7 @@
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
-### Day 62: March 14, 2018
+### Day 62: March 15, 2018
 
 **Today's Progress**: Randomized quotes assigned to one person.
 
@@ -558,7 +558,7 @@
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
-### Day 63: March 14, 2018
+### Day 63: March 16, 2018
 
 **Today's Progress**: Added a mix function to my quote machine.
 
@@ -567,10 +567,19 @@
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
-### Day 64: March 14, 2018
+### Day 64: March 17, 2018
 
 **Today's Progress**: Added a dialogue function to my quote machine.
 
 **Thoughts:** My girlfriend asked me to not overthink it but at this point it's close to impossible.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 65: March 18, 2018
+
+**Today's Progress**: Added the final, mix dialogue function to my quote machine.
+
+**Thoughts:** I guess keeping it simple is not my cup of joe. The trick is to make it look simple.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
