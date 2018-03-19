@@ -583,3 +583,12 @@
 **Thoughts:** I guess keeping it simple is not my cup of joe. The trick is to make it look simple.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 66: March 19, 2018
+
+**Today's Progress**: Drafted a layout and a logo for my random quote machine.
+
+**Thoughts:** It's literally impossible to be bored developing for the web.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
