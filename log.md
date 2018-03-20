@@ -592,3 +592,12 @@
 **Thoughts:** It's literally impossible to be bored developing for the web.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 67: March 20, 2018
+
+**Today's Progress**: Added image placeholders to my quote machine.
+
+**Thoughts:** 2/3 milestone today! :)
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
