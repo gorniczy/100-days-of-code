@@ -601,3 +601,21 @@
 **Thoughts:** 2/3 milestone today! :)
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 68: March 21, 2018
+
+**Today's Progress**: Worked on functions in my quote machine and designed its layout in Sketch.
+
+**Thoughts:** Random != ugly. :)
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 69: March 22, 2018
+
+**Today's Progress**: Continued on designing the pages' layout in Sketch.
+
+**Thoughts:** Not that responsive yet but hoping to get there soon.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
