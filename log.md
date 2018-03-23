@@ -619,3 +619,12 @@
 **Thoughts:** Not that responsive yet but hoping to get there soon.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 70: March 22, 2018
+
+**Today's Progress**: Styled the buttons.
+
+**Thoughts:** Yep, nothing else.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
