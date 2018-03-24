@@ -621,10 +621,19 @@
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
-### Day 70: March 22, 2018
+### Day 70: March 23, 2018
 
 **Today's Progress**: Styled the buttons.
 
 **Thoughts:** Yep, nothing else.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 71: March 24, 2018
+
+**Today's Progress**: Started to translate project mockup into html/css.
+
+**Thoughts:** Pixels are my minions in this one. Hope they like me.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
