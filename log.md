@@ -637,3 +637,21 @@
 **Thoughts:** Pixels are my minions in this one. Hope they like me.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 72: March 25, 2018
+
+**Today's Progress**: Worked on the layout of my quote machine.
+
+**Thoughts:** My bond with CSS has deepened substantially.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 73: March 26, 2018
+
+**Today's Progress**: Styling follow-up quest for today.
+
+**Thoughts:** A whole lot of inline-blocking, cup of coffee and a cherry pie.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
