@@ -655,3 +655,12 @@
 **Thoughts:** A whole lot of inline-blocking, cup of coffee and a cherry pie.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 74: March 27, 2018
+
+**Today's Progress**: More visual work today, a slight layout makeover.
+
+**Thoughts:** Wonder what would future generations think of my script, say 1000 years from now.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
