@@ -664,3 +664,12 @@
 **Thoughts:** Wonder what would future generations think of my script, say 1000 years from now.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 75: March 28, 2018
+
+**Today's Progress**: Getting closer to the end of the quote machine project.
+
+**Thoughts:** Feel a bit like a director shooting scenes.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
