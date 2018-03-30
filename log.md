@@ -673,3 +673,12 @@
 **Thoughts:** Feel a bit like a director shooting scenes.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 76: March 29, 2018
+
+**Today's Progress**: More graphic work today and not much coding.
+
+**Thoughts:** Combining UX and Front-end comes with diversity. :)
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
