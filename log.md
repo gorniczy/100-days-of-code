@@ -682,3 +682,39 @@
 **Thoughts:** Combining UX and Front-end comes with diversity. :)
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 77: March 30, 2018
+
+**Today's Progress**: Continued work on graphic design of my project.
+
+**Thoughts:** Trying to be as original as possible takes time.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 78: March 31, 2018
+
+**Today's Progress**: A lot of layout and one Easter egg.
+
+**Thoughts:** Todays formula: solitude === productivity.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 79: April 1, 2018
+
+**Today's Progress**: My design for the quote machine is nearly finished.
+
+**Thoughts:** Take [some high number], action!
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 80: April 2, 2018
+
+**Today's Progress**: Back to the responsive design.
+
+**Thoughts:** You were missed, my highly unpredictable friend!
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
