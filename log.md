@@ -736,3 +736,12 @@
 **Thoughts:** Picking the right tool seems tricky at times but they're all so fun to play with.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 83: April 5, 2018
+
+**Today's Progress**: Tested the playground I've created so far.
+
+**Thoughts:** Had a lot of fun, but some toys are acting out of place. Not for long.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
