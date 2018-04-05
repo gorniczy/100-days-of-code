@@ -4,7 +4,7 @@
 
 **Today's Progress**: made some progress on the HTML5 and CSS challenges on fCC.
 
-**Thoughts:** I am revisiting some already known things to me, but from a different perspective, and I'm willing to build my project along with exercise so it should be fine :). Can't wait to be able to upload the Neo I know JS on twitter.
+**Thoughts:** I am revisiting some already known things to me, but from a different perspective, and I'm willing to build my project along with exercises so it should be fine :). Can't wait to be able to upload the Neo I know JS on twitter.
 
 **Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
 
@@ -716,5 +716,23 @@
 **Today's Progress**: Back to the responsive design.
 
 **Thoughts:** You were missed, my highly unpredictable friend!
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 81: April 3, 2018
+
+**Today's Progress**: Played with elements' position onscreen.
+
+**Thoughts:** Chasing the vintage vibe for my project trying to steer clear from being obsolete.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 82: April 4, 2018
+
+**Today's Progress**: Rearranged elements using flexbox.
+
+**Thoughts:** Picking the right tool seems tricky at times but they're all so fun to play with.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
