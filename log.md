@@ -745,3 +745,40 @@
 **Thoughts:** Had a lot of fun, but some toys are acting out of place. Not for long.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 84: April 6, 2018
+
+**Today's Progress**: Made a detour to get to know flex better.
+
+**Thoughts:** Feel a bit lost with my project.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 85: April 7, 2018
+
+**Today's Progress**: Still positioning items on my page
+
+**Thoughts:** I have to be honest with my self. I'm stuck.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+--
+
+### Day 86: April 9, 2018
+
+**Today's Progress**: More flexbox practice and some repositioning elements on the page.
+
+**Thoughts:** Had 2 exams today so my coding had to do without much thinking.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 87: April 10, 2018
+
+**Today's Progress**: Trying a more blunt approach to my coding fatigue.
+
+**Thoughts:** Everything in universe is born out of chaos, so lets try this one out.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
