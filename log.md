@@ -782,3 +782,30 @@
 **Thoughts:** Everything in universe is born out of chaos, so lets try this one out.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 88: April 11, 2018
+
+**Today's Progress**: Rearrange again.
+
+**Thoughts:** Responsive design is a tough opponent.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 89: April 12, 2018
+
+**Today's Progress**: Back to the grid.
+
+**Thoughts:** Not much news apart from that.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 90: April 13, 2018
+
+**Today's Progress**: Finally elemnts look the way I intended, using grid.
+
+**Thoughts:** Made a mistake going for flex erlier. It sounded sexier and I fell for it.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
