@@ -809,3 +809,21 @@
 **Thoughts:** Made a mistake going for flex erlier. It sounded sexier and I fell for it.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 91: April 14, 2018
+
+**Today's Progress**: Designed alternative buttons.
+
+**Thoughts:** Options, options, options.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 92: April 15, 2018
+
+**Today's Progress**: Tried to get rid of this bug that misplaces my text inserted via JS.
+
+**Thoughts:** Starting to understand why this nasty things are called bugs.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
