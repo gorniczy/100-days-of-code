@@ -827,3 +827,75 @@
 **Thoughts:** Starting to understand why this nasty things are called bugs.
 
 **Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 93: April 16, 2018
+
+**Today's Progress**: Made use of positioning methods.
+
+**Thoughts:** I am an educated translator, but translating image into a RESPONSIVE webcode is a whole new level.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 94: April 17, 2018
+
+**Today's Progress**: Checked the cross-browser compatibility of my webproject.
+
+**Thoughts:** Ran back to my native Safari while crying.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 95: April 18, 2018
+
+**Today's Progress**: Applied flex to some elements of the page.
+
+**Thoughts:** "Make it simple" was my first thought. Yep, good luck with that.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 96: April 19, 2018
+
+**Today's Progress**: Adopted layout to different screen sizes. Firefox breaks my code.
+
+**Thoughts:** Realized that my 100 days are numbered. Looking forward to overflow.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 97: April 20, 2018
+
+**Today's Progress**: Was finally able to fix the 'firrefox' bug!
+
+**Thoughts:** Still far from ZEN, but it feels like my bday, guys.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 98: April 21, 2018
+
+**Today's Progress**: Responsiveness is a word for today.
+
+**Thoughts:** Feel a bit like a fortune teller with all those screen sizes and stuff.
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 99: April 22, 2018
+
+**Today's Progress**: Viewport height, ems and rems.
+
+**Thoughts:** Is pixel dead already?
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
+
+
+### Day 100: April 22, 2018
+
+**Today's Progress**: Still learn while developing and love the sh.. out of it.
+
+**Thoughts:** Thanks for your support guys. I made the first round!
+
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
