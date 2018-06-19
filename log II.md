@@ -11,6 +11,15 @@
 
 ### Day 2: June 19, 2018
 
+**Today's Progress**: Played with responsiveness of a stereo mode of my project.
+
+**Thoughts:** Responsiveness is a way to kill strangers. (:
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 3: June 20, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
