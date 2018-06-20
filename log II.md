@@ -20,6 +20,15 @@
 
 ### Day 3: June 20, 2018
 
+**Today's Progress**: Same old responsive design.
+
+**Thoughts:** Tedious&treacherous. (:
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 4: June 21, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
