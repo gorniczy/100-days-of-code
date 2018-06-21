@@ -29,6 +29,15 @@
 
 ### Day 4: June 21, 2018
 
+**Today's Progress**: Viewport and rem are my tools for today.
+
+**Thoughts:** Discovered that using vh/vw for height/width and rem for min/max-height/width is a nice way to control your elemnts while resizing.
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 5: June 22, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
