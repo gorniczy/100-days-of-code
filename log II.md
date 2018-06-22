@@ -38,6 +38,15 @@
 
 ### Day 5: June 22, 2018
 
+**Today's Progress**: Mastering the control over the resizing elements on my page.
+
+**Thoughts:** Trying to avoid paranoia in terms of positioning.
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 6: June 23, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
