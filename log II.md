@@ -47,6 +47,15 @@
 
 ### Day 6: June 23, 2018
 
+**Today's Progress**: Apparently position fixed doesn't go well with transform property.
+
+**Thoughts:** No, it doesn't seem obvious. (:
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 6: June 23, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
