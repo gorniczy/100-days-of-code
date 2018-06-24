@@ -54,7 +54,16 @@
 **Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
 
 
-### Day 6: June 23, 2018
+### Day 7: June 24, 2018
+
+**Today's Progress**: Repositioned elements for mobile screens.
+
+**Thoughts:** The project is nearly finished.
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 8: June 25, 2018
 
 **Today's Progress**:
 
