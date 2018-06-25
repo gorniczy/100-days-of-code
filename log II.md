@@ -65,6 +65,15 @@
 
 ### Day 8: June 25, 2018
 
+**Today's Progress**: Added social media options to my project.
+
+**Thoughts:** Off to the final touch - the content. (:
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 8: June 25, 2018
+
 **Today's Progress**:
 
 **Thoughts:**
