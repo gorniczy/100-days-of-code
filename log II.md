@@ -72,7 +72,16 @@
 **Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
 
 
-### Day 8: June 25, 2018
+### Day 9: June 26, 2018
+
+**Today's Progress**: Added content to my page.
+
+**Thoughts:** Still can't wait to share it with the world. (:
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+
+### Day 10: June 25, 2018
 
 **Today's Progress**:
 
