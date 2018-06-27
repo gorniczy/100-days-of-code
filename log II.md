@@ -81,7 +81,15 @@
 **Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
 
 
-### Day 10: June 25, 2018
+### Day 10: June 27, 2018
+
+**Today's Progress**: My quote machine is finished.
+
+**Thoughts:** I will continue to develop/improve the project.
+
+**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+
+### Day 10: June 28, 2018
 
 **Today's Progress**:
 
