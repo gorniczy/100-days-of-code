@@ -15,7 +15,7 @@
 
 **Thoughts:** Responsiveness is a way to kill strangers. (:
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 3: June 20, 2018
@@ -24,7 +24,7 @@
 
 **Thoughts:** Tedious&treacherous. (:
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 4: June 21, 2018
@@ -33,7 +33,7 @@
 
 **Thoughts:** Discovered that using vh/vw for height/width and rem for min/max-height/width is a nice way to control your elemnts while resizing.
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 5: June 22, 2018
@@ -42,7 +42,7 @@
 
 **Thoughts:** Trying to avoid paranoia in terms of positioning.
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 6: June 23, 2018
@@ -51,7 +51,7 @@
 
 **Thoughts:** No, it doesn't seem obvious. (:
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 7: June 24, 2018
@@ -60,7 +60,7 @@
 
 **Thoughts:** The project is nearly finished.
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 8: June 25, 2018
@@ -69,7 +69,7 @@
 
 **Thoughts:** Off to the final touch - the content. (:
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 9: June 26, 2018
@@ -78,7 +78,7 @@
 
 **Thoughts:** Still can't wait to share it with the world. (:
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
 
 ### Day 10: June 27, 2018
@@ -87,12 +87,40 @@
 
 **Thoughts:** I will continue to develop/improve the project.
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:** [Twin Peaks quote machine](https://github.com/gorniczy/quotes-of-twin-peaks)
 
-### Day 10: June 28, 2018
+
+### Day 11: June 28, 2018
+
+**Today's Progress**: Started with React today.
+
+**Thoughts:** Amazed about how smart ppl are making those tools. (:
+
+**Link(s) to work:**
+
+
+### Day 12: June 29, 2018
+
+**Today's Progress**: Launched React playground repository. Revised some JS.
+
+**Thoughts:** Can't wait to develop sth new. (:
+
+**Link(s) to work:** [React playground](https://github.com/gorniczy/react-playground)
+
+
+### Day 13: July 01, 2018
+
+**Today's Progress**: Played with React component a bit.
+
+**Thoughts:** Seeing effects made it all much satisfying. (:
+
+**Link(s) to work:** [React playground](https://github.com/gorniczy/react-playground)
+
+
+### Day 14: July 02, 2018
 
 **Today's Progress**:
 
 **Thoughts:**
 
-**Link(s) to work:** [HTML5 and CSS playground](https://github.com/gorniczy/my100daysOfCode)
+**Link(s) to work:**
