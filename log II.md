@@ -119,8 +119,8 @@
 
 ### Day 14: July 02, 2018
 
-**Today's Progress**:
+**Today's Progress**: JSX and ReactDOM for today.
 
-**Thoughts:**
+**Thoughts:** Nice to finally get a grip on the framework.
 
-**Link(s) to work:**
+**Link(s) to work:**  [React playground](https://github.com/gorniczy/react-playground)
