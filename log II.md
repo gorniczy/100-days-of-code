@@ -124,3 +124,12 @@
 **Thoughts:** Nice to finally get a grip on the framework.
 
 **Link(s) to work:**  [React playground](https://github.com/gorniczy/react-playground)
+
+
+### Day 15: July 03, 2018
+
+**Today's Progress**: Practiced the rendition of React components.
+
+**Thoughts:** Need to dig deeper into JS Class concept.
+
+**Link(s) to work:**  [React playground](https://github.com/gorniczy/react-playground)
