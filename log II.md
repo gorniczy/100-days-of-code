@@ -133,3 +133,30 @@
 **Thoughts:** Need to dig deeper into JS Class concept.
 
 **Link(s) to work:**  [React playground](https://github.com/gorniczy/react-playground)
+
+
+### Day 16: July 04, 2018
+
+**Today's Progress**: Practiced this.props in React.
+
+**Thoughts:** The idea is simple yet possibilities are quite complex.
+
+**Link(s) to work:**  [React playground](https://github.com/gorniczy/react-playground)
+
+
+### Day 17: July 05, 2018
+
+**Today's Progress**: Set up a new ReactApp template.
+
+**Thoughts:** Got discourage while setting up webpack and Babel manually.
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 18: July 06, 2018
+
+**Today's Progress**: Practiced this.state in React.
+
+**Thoughts:** Struggling grasp the idea behind bind(props).
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
