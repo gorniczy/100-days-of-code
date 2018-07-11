@@ -160,3 +160,48 @@
 **Thoughts:** Struggling grasp the idea behind bind(props).
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 19: July 07, 2018
+
+**Today's Progress**: Played with my React App a bit and revised some JS algorithms.
+
+**Thoughts:** Understand is one thing, but keep in mind is completely different. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 20: July 08, 2018
+
+**Today's Progress**: Started with React programming patterns.
+
+**Thoughts:** Pretty amazed by the way the components can be set to interact.
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 21: July 09, 2018
+
+**Today's Progress**: Stateless functional components and propTypes for today.
+
+**Thoughts:** Ok, so who's gonna teach me good practices? (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 22: July 10, 2018
+
+**Today's Progress**: Learned about dealing with React forms.
+
+**Thoughts:** Having a great time actually. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 23: July 11, 2018
+
+**Today's Progress**: Learnt about Lifecycle methods in React and practiced a bit.
+
+**Thoughts:** React i so powerful, now I see it. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
