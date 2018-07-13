@@ -205,3 +205,12 @@
 **Thoughts:** React i so powerful, now I see it. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 24: July 12, 2018
+
+**Today's Progress**: Started component expansion of my ReactApp.
+
+**Thoughts:** Would you rather call React a lego-land or a puzzle-world?
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
