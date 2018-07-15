@@ -207,10 +207,28 @@
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
 
 
-### Day 24: July 12, 2018
+### Day 24: July 13, 2018
 
 **Today's Progress**: Started component expansion of my ReactApp.
 
 **Thoughts:** Would you rather call React a lego-land or a puzzle-world?
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 25: July 14, 2018
+
+**Today's Progress**: Added new components to my ReactApp.
+
+**Thoughts:** Designed some things for it in Sketch which was refreshing.
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 26: July 15, 2018
+
+**Today's Progress**: Made two corresponding components react to the events each of them handle.
+
+**Thoughts:** Need ideas for some new projects. Anyone? (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
