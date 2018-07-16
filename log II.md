@@ -232,3 +232,12 @@
 **Thoughts:** Need ideas for some new projects. Anyone? (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 27: July 16, 2018
+
+**Today's Progress**: Trying to improve my component composition.
+
+**Thoughts:** Good practices are a matter of intuition for me now. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
