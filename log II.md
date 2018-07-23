@@ -241,3 +241,39 @@
 **Thoughts:** Good practices are a matter of intuition for me now. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 28: July 17, 2018
+
+**Today's Progress**: Reviewed some React methods.
+
+**Thoughts:** Everyday coding becomes my lifestyle. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 29: July 18, 2018
+
+**Today's Progress**: Reviewed React state and rearranged components in my app.
+
+**Thoughts:** It's a bit harder to code when outdoor advantures await. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 30: July 20, 2018
+
+**Today's Progress**: Styled my React Components with css.
+
+**Thoughts:** Need to review APIs before moving forward. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 31: July 23, 2018
+
+**Today's Progress**: Practiced a toggle method in React.
+
+**Thoughts:** Had a two-day break. Not proud of it. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
