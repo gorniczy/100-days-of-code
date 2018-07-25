@@ -277,3 +277,21 @@
 **Thoughts:** Had a two-day break. Not proud of it. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 32: July 24, 2018
+
+**Today's Progress**: Practiced passing state and using props.
+
+**Thoughts:** Thinking of building a few simple projects using React. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 33: July 25, 2018
+
+**Today's Progress**: Reviewed lifecycle methods and deployed my app to github pages.
+
+**Thoughts:** 1/3 milestone of the second round! (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
