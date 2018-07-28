@@ -295,3 +295,30 @@
 **Thoughts:** 1/3 milestone of the second round! (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 34: July 26, 2018
+
+**Today's Progress**: Created template for my new weather app.
+
+**Thoughts:** Really like the simplicity of JSON. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 35: July 27, 2018
+
+**Today's Progress**: Added API to my weather app.
+
+**Thoughts:** There's a UI designer. Can there be an API designer as well? (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 36: July 28, 2018
+
+**Today's Progress**: Added a bit of style to my weather app.
+
+**Thoughts:** Switching back to the UX designer mode. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
