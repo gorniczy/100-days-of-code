@@ -322,3 +322,48 @@
 **Thoughts:** Switching back to the UX designer mode. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 37: July 29, 2018
+
+**Today's Progress**: Made a mockup of my weather app.
+
+**Thoughts:** Planning on making it really local. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 38: July 30, 2018
+
+**Today's Progress**: Reviewed some React features and made a slight alterations to my app's component.
+
+**Thoughts:** It's sometimes tedious but I can feel the progress.
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 39: August 01, 2018
+
+**Today's Progress**: Finished React challenges on FCC. Played with colors of my app.
+
+**Thoughts:** Would like to speed the my developing process.
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 40: August 02, 2018
+
+**Today's Progress**: Added timer to the weather app.
+
+**Thoughts:** Making it tick tock is yet another challenge. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 41: August 03, 2018
+
+**Today's Progress**: Set my app clock to motion and added update interval to the API call.
+
+**Thoughts:** The time will show if it works fine. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
