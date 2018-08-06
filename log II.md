@@ -367,3 +367,30 @@
 **Thoughts:** The time will show if it works fine. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 42: August 04, 2018
+
+**Today's Progress**: Optimized components of the app.
+
+**Thoughts:** Time to move to the UI. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 43: August 05, 2018
+
+**Today's Progress**: Add dropdown menu to toggle different skins of the app.
+
+**Thoughts:** Doing sth - preparing to do sth: 1 : 0 (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 44: August 06, 2018
+
+**Today's Progress**: Tried to update sibling component in my app.
+
+**Thoughts:** Need to focus on event.target I guess as it won't work properly.
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
