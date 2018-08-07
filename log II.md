@@ -394,3 +394,12 @@
 **Thoughts:** Need to focus on event.target I guess as it won't work properly.
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 45: August 07, 2018
+
+**Today's Progress**: Fixed yesterday's mistake.
+
+**Thoughts:** Took me some time, but the solution was was obvious, as it often happens with coding. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
