@@ -403,3 +403,12 @@
 **Thoughts:** Took me some time, but the solution was was obvious, as it often happens with coding. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 46: August 08, 2018
+
+**Today's Progress**: Added localStorage function to the app.
+
+**Thoughts:** This little successes when you see sth work properly are hard to describe. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
