@@ -412,3 +412,12 @@
 **Thoughts:** This little successes when you see sth work properly are hard to describe. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 47: August 09, 2018
+
+**Today's Progress**: Made a mockup of the title page of the weather app and coded its functionality.
+
+**Thoughts:** Used localStorage again this time it went way faster. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
