@@ -418,6 +418,15 @@
 
 **Today's Progress**: Made a mockup of the title page of the weather app and coded its functionality.
 
-**Thoughts:** Used localStorage again this time it went way faster. (:
+**Thoughts:** Used localStorage again, this time it went way faster. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 48: August 10, 2018
+
+**Today's Progress**: Styled the title page a bit more and added background image to the component.
+
+**Thoughts:** I've turned 31 today. A year back I wasn't even thinking about frontend and ux and now my life without it would be half-empty. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
