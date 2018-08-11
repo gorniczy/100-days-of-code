@@ -430,3 +430,12 @@
 **Thoughts:** I've turned 31 today. A year back I wasn't even thinking about frontend and ux and now my life without it would be half-empty. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 49: August 11, 2018
+
+**Today's Progress**: Back to CSS today — styling of title screen elements.
+
+**Thoughts:** I think I mentioned it at some point before, but I love CSS. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
