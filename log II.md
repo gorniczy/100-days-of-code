@@ -439,3 +439,21 @@
 **Thoughts:** I think I mentioned it at some point before, but I love CSS. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 50: August 12, 2018
+
+**Today's Progress**: Positioned elements on the title screen of the app.
+
+**Thoughts:** 1/2 milestone again. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 51: August 13, 2018
+
+**Today's Progress**: Made a first draft of the first district layout for the weather app.
+
+**Thoughts:** Overcoming the big little fear of getting things done is the key to it all. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
