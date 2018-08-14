@@ -457,3 +457,12 @@
 **Thoughts:** Overcoming the big little fear of getting things done is the key to it all. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 52: August 14, 2018
+
+**Today's Progress**: Had a breakthrough with my app.
+
+**Thoughts:** The feeling was amazing, hope to finish it soon. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
