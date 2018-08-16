@@ -466,3 +466,12 @@
 **Thoughts:** The feeling was amazing, hope to finish it soon. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 53: August 16, 2018
+
+**Today's Progress**: Made my app quite responsive today and added a few new features.
+
+**Thoughts:** Off to the fieldwork tomorrow. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
