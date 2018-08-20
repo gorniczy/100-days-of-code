@@ -475,3 +475,39 @@
 **Thoughts:** Off to the fieldwork tomorrow. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 54: August 17, 2018
+
+**Today's Progress**: Fieldwork today which resulted in some awesome graphic for the apps UI.
+
+**Thoughts:** Patience is gold. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 55: August 18, 2018
+
+**Today's Progress**: Spent some time setting background with ternary function.
+
+**Thoughts:** As is turned out afterwards, putting the ternary into componentDidMount() wasn't such a great idea. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 56: August 19, 2018
+
+**Today's Progress**: Could not resolve the background image bug but made a few alterations to make my code concise.
+
+**Thoughts:** Developing the weather app on Sunday when all you can see is perfect sunny summer weather is priceless. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 57: August 20, 2018
+
+**Today's Progress**: The background image bug is killed.
+
+**Thoughts:** Decided to ask my first question on stackoverflow, should've done it some 6 months ago. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
