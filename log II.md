@@ -511,3 +511,128 @@
 **Thoughts:** Decided to ask my first question on stackoverflow, should've done it some 6 months ago. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 58: August 21, 2018
+
+**Today's Progress**: Changed API source for weather forecast.
+
+**Thoughts:** CSS grid for tomorrow. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 59: August 22, 2018
+
+**Today's Progress**: CSS grid done and filled with forecasted content.
+
+**Thoughts:** Now back to graphic design. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 60: August 23, 2018
+
+**Today's Progress**: Designed weather symbols and added them to my react component.
+
+**Thoughts:** Had this bug that consumed some time of my life, turned out to be a typo. Priceless. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 61: August 24, 2018
+
+**Today's Progress**: Added graphics for night time and corrected icon references.
+
+**Thoughts:** No matter how creative you become, there's always some API that brings you back to Earth. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 62: August 25, 2018
+
+**Today's Progress**: Field work today. Minor changes to the code.
+
+**Thoughts:** Could not use the photos I made eventually but had a nice bikeride anyways. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+### Day 63: August 26, 2018
+
+**Today's Progress**: Designed portrait orientation of my app.
+
+**Thoughts:** We meet again RWD. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 64: August 27, 2018
+
+**Today's Progress**: Turned my portrait orientation into code.
+
+**Thoughts:** Closing in. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 65: August 28, 2018
+
+**Today's Progress**: My app is roughly responsive.
+
+**Thoughts:** Should focus on the last essential element now. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 66: August 30, 2018
+
+**Today's Progress**: Deployed my app to github pegaes and tested it on several devices.
+
+**Thoughts:** Not all of it went smoothly as you can imagine. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 67: August 31, 2018
+
+**Today's Progress**: Added fonts to my project to make them appear in all browsers properly.
+
+**Thoughts:** The most problematic so far is my beloved Firefox. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 68: September 1, 2018
+
+**Today's Progress**: Styled title screen of my app with CSS and made it responsive.
+
+**Thoughts:** Should rework it in the future. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 69: September 2, 2018
+
+**Today's Progress**: Had a talk with a designer on the app's UI and made a slight change to it.
+
+**Thoughts:** Getting feedback is priceless sometimes. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 70: September 3, 2018
+
+**Today's Progress**: Tried to lock the app's ratio for vertical responsiveness but had a big problem with font-size.
+
+**Thoughts:** Sacrifise is another superpower of a frontend developer. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 71: September 4, 2018
+
+**Today's Progress**: Added media queries to tackle :hover issue for touch screens.
+
+**Thoughts:** No effects yet. Should be patient. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
