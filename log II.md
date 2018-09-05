@@ -636,3 +636,12 @@
 **Thoughts:** No effects yet. Should be patient. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 72: September 5, 2018
+
+**Today's Progress**: Substituted pointer:coarse with hover:none to target touchscreen devices.
+
+**Thoughts:** Still no visible effect.
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
