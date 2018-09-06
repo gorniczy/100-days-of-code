@@ -645,3 +645,12 @@
 **Thoughts:** Still no visible effect.
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 73: September 6, 2018
+
+**Today's Progress**: Corrected overflow issue for mobile landscape orientation.
+
+**Thoughts:** Feel quite a lot like Don Quixote with RWD playing the noble part of a windmill. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
