@@ -654,3 +654,21 @@
 **Thoughts:** Feel quite a lot like Don Quixote with RWD playing the noble part of a windmill. (:
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 74: September 7, 2018
+
+**Today's Progress**: Tried to set font-size relative to container size.
+
+**Thoughts:** No success yet. Will get there. (:
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 75: September 8, 2018
+
+**Today's Progress**: Returned to the issue of hover vs no hover.
+
+**Thoughts:** No success for this one either. Ok, need to unstick myself from this project for a while. :)
+
+**Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
