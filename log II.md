@@ -672,3 +672,12 @@
 **Thoughts:** No success for this one either. Ok, need to unstick myself from this project for a while. :)
 
 **Link(s) to work:**  [React-app](https://github.com/gorniczy/react-app)
+
+
+### Day 76-99: October 5, 2018
+
+**Today's Progress**: Yeah, tough month. I've neglected my logbook and neglected my twitter. But I haven't neglected my code. Hope to share my new app with you within a few days.
+
+**Thoughts:** I was stuck a lot during that period with little visible progress, but I kept going. Read this, Future Me, and keep going, you know you're doing the right thing. :)
+
+**Link(s) to work:**  [Warsaw Weather](https://gorniczy.github.io/warsaw-weather/)
